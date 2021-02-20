@@ -1,4 +1,4 @@
-Installation steps for CryptoServer and the HTTP client solution
+Installation steps for Crypto Server and the client
 =================================================================
 This solution is tested with Win10 and CentOS7 system. Port used in 8443.
 Hence, make sure that your firewall is not blocking the port.
